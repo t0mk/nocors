@@ -10,9 +10,9 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    preserveAspectRatio="xMidYMid meet"
-   viewBox="0 0 283.33612 49.999998"
-   width="283.33612"
-   height="49.999996"
+   viewBox="0 0 283.24392 49.070356"
+   width="283.24393"
+   height="49.070354"
    id="svg100"
    sodipodi:docname="horilogo.svg"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
@@ -42,11 +42,11 @@
      id="namedview102"
      showgrid="false"
      inkscape:pagecheckerboard="true"
-     inkscape:zoom="3.6203867"
-     inkscape:cx="113.02806"
-     inkscape:cy="78.221669"
+     inkscape:zoom="4.3027692"
+     inkscape:cx="139.54612"
+     inkscape:cy="66.868009"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="1105"
      inkscape:window-maximized="1"
      inkscape:current-layer="g96"
      fit-margin-top="0"
@@ -181,7 +181,7 @@
   </defs>
   <g
      id="g98"
-     transform="translate(-27.368431,-572.18946)">
+     transform="translate(-27.368431,-573.1191)">
     <g
        id="g96">
       <g
@@ -313,7 +313,7 @@
          aria-label="kstat.io"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:208.65235901px;line-height:125%;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.08673108px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="text864"
-         transform="matrix(0.33967829,0,0,0.33967829,99.763404,351.79182)">
+         transform="matrix(0.33334057,0,0,0.33334057,99.812101,356.83364)">
         <path
            d="m 68.610123,689.1122 h 20.239279 q 2.503828,0 3.338437,1.46057 0.83461,1.46056 -0.625957,3.75574 l -27.750764,45.69486 v 0.83461 l 29.002678,49.45061 q 1.251915,2.08653 0.208653,3.75575 -1.043262,1.46056 -3.755743,1.46056 H 71.322603 q -3.54709,0 -5.216309,-0.83461 -1.460566,-0.83461 -3.129785,-3.54709 l -26.49885,-46.52947 q -1.877871,-3.33844 0,-6.88553 l 25.038284,-44.44295 q 2.295175,-4.17305 7.09418,-4.17305 z M 29.800784,795.5249 H 12.065333 q -4.3816991,0 -4.3816991,-4.3817 V 653.22399 q 0,-4.3817 4.3816991,-4.3817 h 17.735451 q 4.381699,0 4.381699,4.3817 V 791.1432 q 0,4.3817 -4.381699,4.3817 z"
            style="stroke-width:1.08673108px"
